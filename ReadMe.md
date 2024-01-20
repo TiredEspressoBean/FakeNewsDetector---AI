@@ -3,7 +3,7 @@
 ## Overview
 
 This project implements a Fake News Detection system using the BERT model to classify news articles as real or fake. 
-For detailed information please see FakeNewsDetector.ipynb for the source code, or click the google colab icon
+For detailed information please see FakeNewsDetector.ipynb for the source code, or click the Google colab icon
 at the top of the FakeNewsDetector.ipynb to potentially try it yourself.
 
 ## Technical Details
